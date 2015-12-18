@@ -6,9 +6,15 @@ Gulpを使ったWatchとBrowser-Syncのサンプルプロジェクトです。
 
 サンプルプロジェクトをローカルマシンにダウンロード。
 
-## Run gulp task
+## Install npm modules
 
 ```
 $ cd {Your download dir}/gulpSample
+$ npm install
+```
+
+## Run gulp task
+
+```
 $ gulp sync
 ```
