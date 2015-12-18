@@ -1,0 +1,32 @@
+{
+  "name": "gulp_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokino/gulpSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.29",
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-starter": "^0.2.5",
+    "gulp-watch": "^4.3.4",
+    "jade": "^1.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/tokino/gulpSample/issues"
+  },
+  "homepage": "https://github.com/tokino/gulpSample#readme"
+}
